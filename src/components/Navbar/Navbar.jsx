@@ -10,11 +10,6 @@ const Navbar = () => {
 
   const toggleSidebar = () => {
     setSidebarOpen(!sidebarOpen);
-    if (sidebarOpen == false) {
-      document.body.style = "overflow:hidden"
-    } else {
-      document.body.style = "overflow:auto"
-    }
   };
 
   return (

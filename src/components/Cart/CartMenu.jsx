@@ -15,11 +15,11 @@ const CartMenu = () => {
     const toggleMenu = () => {
         setIsOpen(!isOpen);
         document.body.classList.toggle('cart-menu-open');
-        if (isOpen == false) {
-            document.body.style = "overflow:hidden"
-        } else {
-            document.body.style = "overflow:auto"
-        }
+        // if (isOpen == false) {
+        //     document.body.style = "overflow:hidden"
+        // } else {
+        //     document.body.style = "overflow:auto"
+        // }
     };
 
     const handleProductClick = (product) => {

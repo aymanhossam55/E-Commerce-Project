@@ -14,11 +14,6 @@ const Search = () => {
     const toggleMenu = () => {
         setIsOpen(!isOpen);
         document.body.classList.toggle('search-menu-open');
-        if (isOpen == false) {
-            document.body.style = "overflow:hidden"
-        } else {
-            document.body.style = "overflow:auto"
-        }
     };
 
     const handledelete = () => {
