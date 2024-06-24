@@ -10,7 +10,7 @@ const Products = ({ showAdditionalSection = true }) => {
     const navigate = useNavigate();
 
     const getData = () => {
-        fetch('/src/assets/data.json', {
+        fetch('/public/data.json', {
             headers: {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'

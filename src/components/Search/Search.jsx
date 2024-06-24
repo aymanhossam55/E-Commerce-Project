@@ -23,7 +23,7 @@ const Search = () => {
 
     useEffect(() => {
         const fetchProducts = async () => {
-            const response = await fetch('/src/assets/data.json');
+            const response = await fetch('/public/data.json');
             const data = await response.json();
             setProducts(data);
         };
