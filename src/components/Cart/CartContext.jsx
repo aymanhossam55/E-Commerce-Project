@@ -31,13 +31,19 @@ export const CartProvider = ({ children }) => {
         setCart(cart.filter((_, i) => i !== index));
     };
 
+    // Function to clear the entire cart
+    const clearCart = () => {
+        setCart([]);
+        localStorage.removeItem('cart');
+    };
+
     // Use an effect to save the cart to localStorage whenever it changes
     useEffect(() => {
         localStorage.setItem('cart', JSON.stringify(cart));
     }, [cart]);
 
     return (
-        <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>
+        <CartContext.Provider value={{ cart, addToCart, removeFromCart , clearCart}}>
             {children}
         </CartContext.Provider>
     );

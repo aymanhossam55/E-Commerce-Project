@@ -34,7 +34,7 @@ const CartMenu = () => {
                 <div className={`w-full h-full transition-transform duration-300 transform`}>
                     <div className="mx-xl p-l">
                         {cart.length === 0 ? (
-                            <p className='text-text-dark text-2xl p-2xl flex justify-center'>Your cart is currently empty.</p>
+                            <p className='text-text-dark text-2xl p-2xl mt-4xl flex justify-center'>Your cart is currently empty.</p>
                         ) : (
                             <div>
                                 <p className='text-text-dark text-3xl'>Shopping Cart</p>
