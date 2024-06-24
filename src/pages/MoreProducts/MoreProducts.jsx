@@ -14,7 +14,7 @@ const MoreProducts = () => {
     const menuRef = useRef(null);
 
     useEffect(() => {
-        fetch('http://localhost:3000/', {
+        fetch('/src/assets/data.json', {
             headers: {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
