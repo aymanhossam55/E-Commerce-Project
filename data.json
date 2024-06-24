@@ -1,0 +1,327 @@
+{
+    "BY MOURAD MAKRAM" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/MouradMakramProduct1.webp",
+            "productName" : "GRIF x MOURAD MAKRAM 38 CM CAST IRON WORK",
+            "price" : "2,599.00 EGP",
+            "AddButton" : "Sold Out",
+            "ProductDetails" : {
+                "img" : "/src/assets/MouradMakramProduct1.webp",
+                "img1" : "/src/assets/IMG1-3.webp",
+                "img2" : "/src/assets/IMG2-3.webp",
+                "img3" : "/src/assets/IMG3-3.webp"
+            }
+        },
+        "product 2" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/MouradMakramProduct2.webp",
+            "productName" : "GRIF x MOURAD MAKRAM 25 CM DUTCH OVEN",
+            "price" : "2,399.00 EGP",
+            "AddButton" : "Sold Out",
+            "ProductDetails" : {
+                "img" : "/src/assets/MouradMakramProduct2.webp",
+                "img1" : "/src/assets/IMG2_1-4.webp",
+                "img2" : "/src/assets/IMG2_2-4.webp",
+                "img3" : "/src/assets/IMG2_3-4.webp",
+                "img4" : "/src/assets/IMG2_4-4.webp"
+            }
+        }
+    },
+    "Our Bundles" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurBundlesProduct1.webp",
+            "productName" : "FULL HOUSE: 4 SKILLETS SET",
+            "price" : "4,399.00 EGP",
+            "Discountprice" : "4,956.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurBundlesProduct1.webp",
+                "img1" : "/src/assets/IMG3_1-5.webp",
+                "img2" : "/src/assets/IMG3_2-5.webp",
+                "img3" : "/src/assets/IMG3_3-5.webp",
+                "img4" : "/src/assets/IMG3_4-5.webp",
+                "img5" : "/src/assets/IMG3_5-5.webp"
+            }
+        },
+        "product2" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurBundlesProduct2.webp",
+            "productName" : "THE BIG ONES: 3 SKILLETS AND 1 LEATHER HANDLE SET",
+            "price" : "4,399.00 EGP",
+            "Discountprice" : "4,460.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurBundlesProduct2.webp",
+                "img1" : "/src/assets/IMG4_1-4.webp",
+                "img2" : "/src/assets/IMG4_2-4.webp",
+                "img3" : "/src/assets/IMG4_3-4.webp",
+                "img4" : "/src/assets/IMG4_4-4.webp"
+            }
+        },
+        "product3" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurBundlesProduct3.webp",
+            "productName" : "RAISE: 20 CM SKILLET, MORTAR AND LEATHER HANDLE",
+            "price" : "1,299.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurBundlesProduct3.webp",
+                "img1" : "/src/assets/IMG5_1-1.webp"
+            }
+        },
+        "product4" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurBundlesProduct4.webp",
+            "productName" : "3-BET: 3 SKILLETS AND 2 LEATHER HANDLES SET",
+            "price" : "3,099.00 EGP",
+            "Discountprice" : "3,457.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurBundlesProduct4.webp",
+                "img1" : "/src/assets/IMG6_1-2.webp",
+                "img2" : "/src/assets/IMG6_2-2.webp"
+            }
+        }
+    },
+    "Our Skillets Collection" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurSkilletsCollectionProduct1.webp",
+            "productName" : "30 CM CAST IRON SKILLET",
+            "price" : "1,799.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurSkilletsCollectionProduct1.webp",
+                "img1" : "/src/assets/IMG7_1-7.webp",
+                "img2" : "/src/assets/IMG7_2-7.webp",
+                "img3" : "/src/assets/IMG7_3-7.webp",
+                "img4" : "/src/assets/IMG7_4-7.webp",
+                "img5" : "/src/assets/IMG7_5-7.webp",
+                "img6" : "/src/assets/IMG7_6-7.webp",
+                "img7" : "/src/assets/IMG7_7-7.webp"
+
+            }
+        },
+        "product2" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurSkilletsCollectionProduct2.webp",
+            "productName" : "25 CM CAST IRON SKILLET",
+            "price" : "1,599.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurSkilletsCollectionProduct2.webp",
+                "img1" : "/src/assets/IMG8_1-8.webp",
+                "img2" : "/src/assets/IMG8_2-8.webp",
+                "img3" : "/src/assets/IMG8_3-8.webp",
+                "img4" : "/src/assets/IMG8_4-8.webp",
+                "img5" : "/src/assets/IMG8_5-8.webp",
+                "img6" : "/src/assets/IMG8_6-8.webp",
+                "img7" : "/src/assets/IMG8_7-8.webp",
+                "img8" : "/src/assets/IMG8_8-8.webp"
+            }
+        },
+        "product3" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurSkilletsCollectionProduct3.webp",
+            "productName" : "20 CM CAST IRON SKILLET",
+            "price" : "999.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurSkilletsCollectionProduct3.webp",
+                "img1" : "/src/assets/IMG9_1-7.webp",
+                "img2" : "/src/assets/IMG9_2-7.webp",
+                "img3" : "/src/assets/IMG9_3-7.webp",
+                "img4" : "/src/assets/IMG9_4-7.webp",
+                "img5" : "/src/assets/IMG9_5-7.webp",
+                "img6" : "/src/assets/IMG9_6-7.webp",
+                "img7" : "/src/assets/IMG9_7-7.webp"
+            }
+        },
+        "product4" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurSkilletsCollectionProduct4.webp",
+            "productName" : "15 CM CAST IRON SKILLET",
+            "price" : "599.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurSkilletsCollectionProduct4.webp",
+                "img1" : "/src/assets/IMG10_1-7.webp",
+                "img2" : "/src/assets/IMG10_2-7.webp",
+                "img3" : "/src/assets/IMG10_3-7.webp",
+                "img4" : "/src/assets/IMG10_4-7.webp",
+                "img5" : "/src/assets/IMG10_5-7.webp",
+                "img6" : "/src/assets/IMG10_6-7.webp",
+                "img7" : "/src/assets/IMG10_7-7.webp"
+            }
+        }
+    },
+    "Our Dutch Ovens Collection" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurDutchOvensCollectionProduct1.webp",
+            "productName" : "28 CM OVAL DUTCH OVEN",
+            "price" : "2,599.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurDutchOvensCollectionProduct1.webp",
+                "img1" : "/src/assets/IMG11_1-6.webp",
+                "img2" : "/src/assets/IMG11_2-6.webp",
+                "img3" : "/src/assets/IMG11_3-6.webp",
+                "img4" : "/src/assets/IMG11_4-6.webp",
+                "img5" : "/src/assets/IMG11_5-6.webp",
+                "img6" : "/src/assets/IMG11_6-6.webp"
+            }
+        },
+        "product2" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurDutchOvensCollectionProduct2.webp",
+            "productName" : "28 CM ROUND DUTCH OVEN",
+            "price" : "2,899.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurDutchOvensCollectionProduct2.webp",
+                "img1" : "/src/assets/IMG12_1-6.webp",
+                "img2" : "/src/assets/IMG12_2-6.webp",
+                "img3" : "/src/assets/IMG12_3-6.webp",
+                "img4" : "/src/assets/IMG12_4-6.webp",
+                "img5" : "/src/assets/IMG12_5-6.webp",
+                "img6" : "/src/assets/IMG12_6-6.webp"
+            }
+        },
+        "product3" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurDutchOvensCollectionProduct3.webp",
+            "productName" : "20 CM ROUND DUTCH OVEN",
+            "price" : "1,999.00 EGP",
+            "AddButton" : "Sold Out",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurDutchOvensCollectionProduct3.webp",
+                "img1" : "/src/assets/IMG13_1-6.webp",
+                "img2" : "/src/assets/IMG13_2-6.webp",
+                "img3" : "/src/assets/IMG13_3-6.webp",
+                "img4" : "/src/assets/IMG13_4-6.webp.webp",
+                "img5" : "/src/assets/IMG13_5-6.webp",
+                "img6" : "/src/assets/IMG13_6-6.webp"
+            }
+        },
+        "product4" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/OurDutchOvensCollectionProduct4.webp",
+            "productName" : "GRIF x MOURAD MAKRAM 25 CM DUTCH OVEN",
+            "price" : "2,399.00 EGP",
+            "AddButton" : "Sold Out",
+            "ProductDetails" : {
+                "img" : "/src/assets/OurDutchOvensCollectionProduct4.webp",
+                "img1" : "/src/assets/IMG14_1-3.webp",
+                "img2" : "/src/assets/IMG14_2-3.webp",
+                "img3" : "/src/assets/IMG14_3-3.webp"
+            }
+        }
+    },
+    "Our Grills/Griddles Collection" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/Grills_GriddlesCollectionProduct1.webp",
+            "productName" : "30 CM CAST IRON GRILL",
+            "price" : "1,599.00 EGP",
+            "AddButton" : "Sold Out"
+        }
+    },
+    "Copper Cookware" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/CopperCookwareProduct1.webp",
+            "productName" : "15 CM COPPER SAUCE PAN",
+            "price" : "3,599.00 EGP",
+            "AddButton" : "Sold Out",
+            "ProductDetails" : {
+                "img" : "/src/assets/CopperCookwareProduct1.webp",
+                "img1" : "/src/assets/IMG16_1-3.webp",
+                "img2" : "/src/assets/IMG16_2-3.webp",
+                "img3" : "/src/assets/IMG16_3-3.webp"
+            }
+        },
+        "product2" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/CopperCookwareProduct2.webp",
+            "productName" : "20 CM COPPER SKILLET",
+            "price" : "3,999.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/CopperCookwareProduct2.webp",
+                "img1" : "/src/assets/IMG17_1-4.webp",
+                "img2" : "/src/assets/IMG17_2-4.webp",
+                "img3" : "/src/assets/IMG17_3-4.webp",
+                "img4" : "/src/assets/IMG17_4-4.webp"
+            }
+        },
+        "product3" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/CopperCookwareProduct3.webp",
+            "productName" : "25 CM COPPER SKILLET",
+            "price" : "5,599.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/CopperCookwareProduct3.webp",
+                "img1" : "/src/assets/IMG17_1-4.webp",
+                "img2" : "/src/assets/IMG17_2-4.webp",
+                "img3" : "/src/assets/IMG17_3-4.webp",
+                "img4" : "/src/assets/IMG17_4-4.webp"
+            }
+        }
+    },
+    "Leather Goods" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/LeatherGoodsProduct1.webp",
+            "productName" : "GENUINE LEATHER HANDLE COVER",
+            "price" : "103.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/LeatherGoodsProduct1.webp",
+                "img1" : "/src/assets/IMG19_1-4.webp",
+                "img2" : "/src/assets/IMG19_2-4.webp",
+                "img3" : "/src/assets/IMG19_3-4.webp",
+                "img4" : "/src/assets/IMG19_4-4.webp"
+            }
+        },
+        "product2" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/LeatherGoodsProduct2.webp",
+            "productName" : "DUTCH OVEN AND GRILL LEATHER HANDLE/COASTER",
+            "price" : "69.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/LeatherGoodsProduct2.webp",
+                "img1" : "/src/assets/IMG3_1-5.webp",
+                "img2" : "/src/assets/IMG3_2-5.webp",
+                "img3" : "/src/assets/IMG3_3-5.webp",
+                "img4" : "/src/assets/IMG3_4-5.webp",
+                "img5" : "/src/assets/IMG3_5-5.webp"
+            }   
+        }
+    },
+    "Wooden Products" : {
+        "product1" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/WoodenProductsProduct1.webp",
+            "productName" : "GRIF WOODEN COOKING UTENSILS SET",
+            "price" : "599.00 EGP",
+            "Discountprice" : "4,956.00 EGP",
+            "AddButton" : "Add To Cart"
+        },
+        "product2" : {
+            "TradeName" : "Grif Cookware",
+            "img" : "/src/assets/WoodenProductsProduct2.webp",
+            "productName" : "GRIF WOODEN MORTAR",
+            "price" : "4,399.00 EGP",
+            "AddButton" : "Add To Cart",
+            "ProductDetails" : {
+                "img" : "/src/assets/WoodenProductsProduct2.webp",
+                "img1" : "/src/assets/IMG21_1-1.webp"
+            }   
+        }
+    }
+}
