@@ -23,7 +23,7 @@ const Search = () => {
 
     useEffect(() => {
         const fetchProducts = async () => {
-            const response = await fetch('/data.json');
+            const response = await fetch('http://localhost:3000/');
             const data = await response.json();
             setProducts(data);
         };

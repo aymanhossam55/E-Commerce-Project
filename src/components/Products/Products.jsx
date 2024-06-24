@@ -10,7 +10,7 @@ const Products = ({ showAdditionalSection = true }) => {
     const navigate = useNavigate();
 
     const getData = () => {
-        fetch('/data.json', {
+        fetch('http://localhost:3000/', {
             headers: {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
