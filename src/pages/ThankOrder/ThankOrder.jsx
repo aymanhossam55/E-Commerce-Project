@@ -12,18 +12,18 @@ const ThankOrder = () => {
 
   return (
     <div className="flex flex-col items-center justify-center p-8">
-      <h2 className="text-3xl font-semibold mb-8">Thank you for your order!</h2>
+      <h2 className="text-3xl font-semibold mb-8 text-center">Thank you for your order!</h2>
 
-      <div className="bg-[#f3f8f3] p-6 rounded-lg border border-dark-input w-full md:w-6/12 sm:w-6/12">
-        <h3 className="text-xl font-semibold mb-4">Order Summary</h3>
+      <div className="bg-[#f3f8f3] p-6 rounded-lg border border-dark-input w-full max-w-lg">
+        <h3 className="text-xl font-semibold mb-4 text-center">Order Summary</h3>
         <ul className="text-text-dark">
           {cart.map((item, index) => (
-            <li key={index} className="flex items-center justify-between py-2 border-b border-gray-300">
+            <li key={index} className="flex flex-col sm:flex-row items-center justify-between py-2 border-b border-gray-300">
               <div className="flex items-center">
-                <img src={item.img} className="h-16 w-24" alt={item.productName} />
+                <img src={item.img} className="h-16 w-24 object-cover" alt={item.productName} />
                 <div className="ml-4">
-                  <p>{item.productName}</p>
-                  <p>{item.price}</p>
+                  <p className="text-center sm:text-left">{item.productName}</p>
+                  <p className="text-center sm:text-left">{item.price}</p>
                 </div>
               </div>
             </li>
@@ -31,7 +31,7 @@ const ThankOrder = () => {
         </ul>
 
         <div className="mt-4">
-          <hr className="border-spacing-xl border-dark-bg mb-4" />
+          <hr className="border-dark-bg mb-4" />
           <div className="text-text-dark text-center">
             <p className="mb-2">Order Number: {orderNumber}</p>
             <p className="mb-2">Shipping Address: {formData.address}, {formData.city}, {formData.governorate}, {formData.postalCode}</p>
